@@ -285,6 +285,13 @@ body {
         justify-content: flex-start;
     }
 
+    .img2{
+        width: 180px;
+    }
+    .img3{
+        width: 180px;
+    }
+
     .top-navigation {
         padding: 8px;
         max-width: 95%;
